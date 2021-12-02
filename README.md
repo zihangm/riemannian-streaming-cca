@@ -1,6 +1,6 @@
 # riemannian-streaming-cca
 
-This repository contains the reference code for our paper [An Online Riemannian PCA for Stochastic Canonical Correlation Analysis](https://arxiv.org/pdf/2106.07479.pdf) (Neurips-2021)
+This repository contains the reference code for our paper [An Online Riemannian PCA for Stochastic Canonical Correlation Analysis](https://arxiv.org/pdf/2106.07479.pdf) (NeurIPS-2021)
 
 ## Requirements
 For CCA experiments on MNIST, CIFAR10 and Mediamill:
