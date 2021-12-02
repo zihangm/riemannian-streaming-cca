@@ -8,8 +8,8 @@ For CCA experiments on MNIST, CIFAR10 and Mediamill:
 * [manopt](https://www.manopt.org/) for Matlab
 
 For DeepCCA experiments:
-Python 3
-Pytorch 1.5+
+*Python 3
+*Pytorch 1.5+
 
 ## CCA experiments
 Download the mat files for MNIST, CIFAR10 and Mediamill from google drive [here](https://drive.google.com/file/d/1jUnhhXfepxUQtxJJrMe_FKNu08ljuxAs/view?usp=sharing) and put them in ./CCA
