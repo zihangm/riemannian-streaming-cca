@@ -17,7 +17,16 @@ Download the mat files for MNIST, CIFAR10 and Mediamill from google drive [here]
 Use Matlab to run demo_run.m
 
 ## DeepCCA experiments
-To be added soon
+```
+cd DeepCCA
+```
+First use download_data.sh to download the data (we utilize the data loader file and part of the scripts from this DeepCCA [repo](https://github.com/Michaelvll/DeepCCA))
+
+To run the DeepCCA experiments:  
+```
+python main.py --feat_dim=100
+```
+where --feat_dim specifies the dimension of the output feature by DNN.
 
 ## Reference
 If you find our work useful, please consider citing our paper.
