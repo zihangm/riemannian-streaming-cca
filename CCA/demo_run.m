@@ -1,12 +1,12 @@
-try_12_d1_d2('mnist', 1);
-try_12_d1_d2('mnist', 2);
-try_12_d1_d2('mnist', 4);
+RSG_plus('mnist', 1);
+RSG_plus('mnist', 2);
+RSG_plus('mnist', 4);
 
-try_12_d1_d2('mediamill', 4);
-try_12_d1_d2('mediamill', 2);
-try_12_d1_d2('mediamill', 1);
+RSG_plus('mediamill', 4);
+RSG_plus('mediamill', 2);
+RSG_plus('mediamill', 1);
 
-try_12_d1_d2('cifar', 1);
-try_12_d1_d2('cifar', 2);
-try_12_d1_d2('cifar', 4);
+RSG_plus('cifar', 1);
+RSG_plus('cifar', 2);
+RSG_plus('cifar', 4);
 
